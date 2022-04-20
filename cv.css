@@ -1,4 +1,8 @@
 /*style global*/
+
+h1{
+    visibility: hidden;
+}
 *{
     font-family: Avenir, sans-serif;
     padding: 0px;
